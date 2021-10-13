@@ -35,6 +35,7 @@ defmodule UntilLater.MixProject do
     [
       {:cors_plug, "~> 1.1"},
       {:comeonin, "~> 2.0"},
+      {:bcrypt_elixir, "~> 1.0"},
       {:phoenix, "~> 1.6.2"},
       {:phoenix_ecto, "~> 4.4"},
       {:ecto_sql, "~> 3.6"},
